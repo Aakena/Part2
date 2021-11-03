@@ -27,7 +27,7 @@ namespace Part2
             products = _officeService.GetAllProducts();
 
 
-            return products.
+            return products;
         }
     }
 }
